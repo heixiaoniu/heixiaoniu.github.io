@@ -8,7 +8,7 @@ layout: page
 
 Here is **Miao He (何妙)**.
 
-I am a three-year master's degree student at Beijing Institute of Technology (will graduate in June 2024), majoring in **Computer Technology**, affiliated with the DataHammer Laboratory, and my supervisor is [Prof.Xian-Ling Mao](https://cs. bit.edu.cn/szdw/jsml/js/mxl/index.htm). Currently, I am a visiting student at the Chinese University of Hong Kong (Shenzhen), and my PI is [Prof. Haizhou Li](https://sds.cuhk.edu.cn/teacher/498).
+I am a three-year master's degree student at Beijing Institute of Technology (will graduate in June 2024), majoring in **Computer Technology**, affiliated with the DataHammer Laboratory, and my supervisor is [Prof.Xian-Ling Mao](https://cs.bit.edu.cn/szdw/jsml/js/mxl/index.htm). Currently, I am a visiting student at the Chinese University of Hong Kong (Shenzhen), and my PI is [Prof. Haizhou Li](https://sds.cuhk.edu.cn/teacher/498).
 
 If you are interested in any of my content, I'd love to chat and collaborate, please send me an email at *heixiaoniu132@gmail.com*.
 
