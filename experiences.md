@@ -23,10 +23,10 @@ title: Experiences
 
 - Sep 2021 - Present: **Develop *Technology search Engine HammerScholar***<br>
   Responsibilities: **Front-end development and maintenance**<br>
-  HammerScholar academic search engine is implemented based on the Vue framework. I am mainly responsible for front-end development and subsequent daily system maintenance. Access url: https://hammerscholar.net/.<br>
+  HammerScholar academic search engine is implemented based on the Vue framework. I am mainly responsible for front-end development and subsequent daily system maintenance. Access url: [https://hammerscholar.net/](https://hammerscholar.net/).<br>
   (Beijing, China)<br>
 
-- Dec 2022 - Apr 2023: **Project on *Joint Extraction Technology of Entities and Relationships for the Financial* **<br>
+- Dec 2022 - Apr 2023: **Project on *Joint Extraction Technology of Entities and Relationships for the Financial***<br>
   Responsibilities: **Model training and system development**<br>
   In collaboration with the Industrial and Commercial Bank of China, I actively contributed to a project focused on joint extraction of financial text internship relationships at the chapter level. My primary responsibilities included assisting senior colleagues in model training and actively participating in the development of the project acceptance system.<br>
   (Shanghai, China)<br>
