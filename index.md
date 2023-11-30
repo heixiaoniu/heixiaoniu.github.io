@@ -18,8 +18,8 @@ If you are interested in any of my content, I'd love to chat and collaborate, pl
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2021 - June 2024:** Beijing Institute of Technology (Computer Technology)
-- **Sep 2017 - June 2021:** Wuhan University of Technology (Software Engineering)
+- **Sep 2021 - Jun 2024:** Beijing Institute of Technology (Computer Technology)
+- **Sep 2017 - Jun 2021:** Wuhan University of Technology (Software Engineering)
 
 <br>
 
